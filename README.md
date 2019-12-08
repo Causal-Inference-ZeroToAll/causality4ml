@@ -17,3 +17,8 @@
 - 您有着原始的好奇心，热爱探索和思考。
 
 如果您满足这些条件，请加入我们的开放互助社区，send me a email (zj3712@gmail.com) with your basic information so we can have a plan，一起把这个论文任务完成，在因果研究这条艰难的道路，我们在你身边。
+
+友情链接：
+
+- [Causal Inference Zero to All](https://sites.google.com/view/causal-inference-zerotoall/home)
+- [Life and Intelligence, Strong AI](https://sites.google.com/view/strong-ai/home)
